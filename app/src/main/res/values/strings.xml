@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LearningApp</string>
+    <string name="login">Login</string>
+    <string name="signup">signup</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="click_to_login">click to login</string>
+    <string name="click_to_signup">click to signup</string>
+    <string name="login_as_admin">login as admin</string>
+</resources>
